@@ -1,4 +1,4 @@
-# titanic_survivors_lr
+# Titanic Survival Prediction
 This project is part of my university coursework, where I apply machine learning techniques to analyze real-world datasets. The goal is to predict passenger survival on the Titanic using **Logistic Regression**. The analysis is performed using Python and Jupyter Notebook, incorporating various data science libraries.
 
 
