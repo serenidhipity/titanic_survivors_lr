@@ -26,7 +26,6 @@ The dataset used is the **Titanic: Machine Learning from Disaster** dataset from
 
 ## Results
 The Logistic Regression model achieved:
-
-Accuracy: 0.782
-Log loss: 0.504
-ROC-AUC: 0.838
+- Accuracy: 0.782
+- Log loss: 0.504
+- ROC-AUC: 0.838
